@@ -1,3 +1,2 @@
 # Xcalc
-just a normal console level C++ calculator
-BUILT FOR LINUX ONLY :)
+A new or old CLI tool made in C++ and can run on linux and Windows
